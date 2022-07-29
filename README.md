@@ -1,1 +1,1 @@
-# pd
+# Parallel and distributed computing hometasks
